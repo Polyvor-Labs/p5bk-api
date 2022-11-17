@@ -1,0 +1,31 @@
+[
+    {
+      "id": "1",
+      "name": "Baju biasa",
+      "price": 25000,
+      "image": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/Lv8TRxak8-YVRqtmEF6mEA/xswvEYZGllxnLZBXM6MlleLE7bmf4ZdLKB5OiIH3IxWMIMMOlbZ5jfh0Ty3uzi0eQyrz15W4ATpMFirGqwx6ig/r0M8zU9TgGvakzngZdL3shKeUI8Qq4FVDNVTMxfakYI",
+      "colors": [
+        "#ff0000",
+        "#00ff00",
+        "#0000ff"
+      ],
+      "company": "macros",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "office",
+      "shipping": true
+    },
+    {
+      "id": "2",
+      "name": "albany sectional",
+      "price": 109999,
+      "image": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/f0XvAmWG-qDBtGWvsMwjlw/aNyCWwTAlA5hTznYX13n7-fNcFqYt6rh8N9r_SM83LvTzfRv8gblPQ4OJlpVhin-1dqTwZevylyAvUhTW33GDw/_xln85EVy6mBEn7-GPtag8wWhpDfVSRvRJqcJbf_tg0",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "liddy",
+      "description": "Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge",
+      "category": "living room",
+      "shipping": false
+    }
+  ]

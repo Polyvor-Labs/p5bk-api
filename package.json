@@ -1,0 +1,67 @@
+{
+  "name": "p5bk-api",
+  "version": "1.0.0",
+  "description": "P5BK Rest Api Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "start:dev": "nodemon index.js",
+    "prepare": "husky install",
+    "lint": "eslint . --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jahirrrr/p5bk-api.git"
+  },
+  "keywords": [
+    "simple",
+    "api",
+    "rest",
+    "api"
+  ],
+  "author": "Jahirrrr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jahirrrr/p5bk-api/issues"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "base-64": "^1.0.0",
+    "base32": "0.0.6",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "mongodb": "^3.6.3",
+    "monk": "^7.3.3",
+    "morgan": "^1.10.0",
+    "needle": "^2.6.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2",
+    "scrape-yt": "^1.4.8",
+    "ssl-express-www": "^3.0.7",
+    "tiktok-scraper": "^1.4.12",
+    "urlencode": "^1.1.0",
+    "ytdl-core": "^4.4.5",
+    "ytpl": "^2.0.5"
+  },
+  "homepage": "https://github.com/Jahirrrr/p5bk-api#readme",
+  "devDependencies": {
+    "babel-eslint": "8.2.1",
+    "eslint": "4.17.0",
+    "eslint-config-airbnb-base": "12.1.0",
+    "eslint-config-mfe": "0.1.2",
+    "eslint-plugin-import": "2.8.0",
+    "husky": "^7.0.0",
+    "lint-staged": "^6.1.0",
+    "nodemon": "^2.0.12"
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "git add"
+    ]
+  }
+}
