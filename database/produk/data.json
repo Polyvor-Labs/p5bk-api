@@ -41,5 +41,103 @@
       "description": "twenty wan is byutiful skul",
       "category": "living room",
       "shipping": false
+    },
+    {
+      "id": "4",
+      "name": "Rubi strimer",
+      "price": 10000,
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "rubi",
+      "description": "rubi ingin dapet pacar",
+      "category": "living room",
+      "shipping": false
+    },
+    {
+      "id": "5",
+      "name": "Rubi bahan percobaan",
+      "price": 10000,
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "rubi",
+      "description": "rubi kelinci percobaan",
+      "category": "living room",
+      "shipping": false
+    },
+    {
+      "id": "6",
+      "name": "Rubi kecap",
+      "price": 10000,
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "rubi",
+      "description": "buat test aja sih",
+      "category": "living room",
+      "shipping": false
+    },
+    {
+      "id": "7",
+      "name": "Rubi ngabers",
+      "price": 100000,
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "rubi",
+      "description": "rubi suka rayding",
+      "category": "living room",
+      "shipping": false
+    },
+    {
+      "id": "8",
+      "name": "prof rubi",
+      "price": 100000,
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "rubi",
+      "description": "rubi proffff",
+      "category": "living room",
+      "shipping": false
+    },
+    {
+      "id": "9",
+      "name": "Rubi gamon",
+      "price": 10000,
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "rubi",
+      "description": "hehe",
+      "category": "living room",
+      "shipping": false
+    },
+    {
+      "id": "10",
+      "name": "rubi satir",
+      "price": 10009,
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
+      "colors": [
+        "#000",
+        "#ffb900"
+      ],
+      "company": "rubi",
+      "description": "hehey not bad",
+      "category": "living room",
+      "shipping": false
     }
   ]
