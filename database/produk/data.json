@@ -1,8 +1,8 @@
 [
     {
       "id": "1",
-      "name": "Baju biasa",
-      "price": 25000,
+      "name": "Rubi",
+      "price": 250000,
       "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
       "colors": [
         "#ff0000",
@@ -16,9 +16,9 @@
     },
     {
       "id": "2",
-      "name": "albany sectional",
-      "price": 10000,
-      "image": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/f0XvAmWG-qDBtGWvsMwjlw/aNyCWwTAlA5hTznYX13n7-fNcFqYt6rh8N9r_SM83LvTzfRv8gblPQ4OJlpVhin-1dqTwZevylyAvUhTW33GDw/_xln85EVy6mBEn7-GPtag8wWhpDfVSRvRJqcJbf_tg0",
+      "name": "Rubi Lagi Nganu",
+      "price": 100000,
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
       "colors": [
         "#000",
         "#ffb900"
@@ -30,9 +30,9 @@
     },
     {
       "id": "3",
-      "name": "hehe",
+      "name": "Rubi yutuber",
       "price": 10000,
-      "image": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/f0XvAmWG-qDBtGWvsMwjlw/aNyCWwTAlA5hTznYX13n7-fNcFqYt6rh8N9r_SM83LvTzfRv8gblPQ4OJlpVhin-1dqTwZevylyAvUhTW33GDw/_xln85EVy6mBEn7-GPtag8wWhpDfVSRvRJqcJbf_tg0",
+      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
       "colors": [
         "#000",
         "#ffb900"
