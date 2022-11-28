@@ -1,7 +1,7 @@
 {
     "id": "1",
     "stock": 2348,
-    "price": 259990,
+    "price": 6000,
     "shipping": true,
     "colors": ["#ff0000", "#00ff00", "#0000ff"],
     "category": "Makanan",
