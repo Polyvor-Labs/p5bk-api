@@ -1,45 +1,35 @@
 [
     {
-      "id": "1",
-      "name": "Rubi",
-      "price": 250000,
-      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
-      "colors": [
-        "#ff0000",
-        "#00ff00",
-        "#0000ff"
-      ],
-      "company": "rubi",
-      "description": "rubi raja biologi",
-      "category": "office",
-      "shipping": true
+        "id": "1",
+        "name": "Es Ding Dot",
+        "price": 6000,
+        "image": "https://i.ibb.co/17ZYbbT/IMG-20221127-WA0044.jpg",
+        "colors": ["#ff0000", "#00ff00", "#0000ff"],
+        "company": "CodeArch",
+        "description": "Cara Praktis makan pudding yaitu dengan cara menyedot. Maka rasa haus dan lapar pun terobati. Minuman sekaligus makanan ini cocok untuk mengganjal perut anda!",
+        "category": "Makanan",
+        "shipping": true
     },
     {
-      "id": "2",
-      "name": "Rubi Lagi Nganu",
-      "price": 100000,
-      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
-      "colors": [
-        "#000",
-        "#ffb900"
-      ],
-      "company": "rubi",
-      "description": "dis is twenty wan",
-      "category": "living room",
-      "shipping": false
+        "id": "2",
+        "name": "Es Manohara",
+        "price": 5000,
+        "image": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+        "colors": ["#000", "#ffb900"],
+        "company": "CodeArch",
+        "description": "Menyegarkan dahaga, manis, dan murah!!!",
+        "category": "Minuman",
+        "shipping": false
     },
     {
-      "id": "3",
-      "name": "Rubi yutuber",
-      "price": 10000,
-      "image": "https://i.ibb.co/x5BwWDM/rubi.jpg",
-      "colors": [
-        "#000",
-        "#ffb900"
-      ],
-      "company": "rubi",
-      "description": "twenty wan is byutiful skul",
-      "category": "living room",
-      "shipping": false
+        "id": "3",
+        "name": "Rice Box",
+        "price": 15000,
+        "image": "https://i.ibb.co/JtjRn5x/IMG-20221125-WA0093.jpg",
+        "colors": ["#000", "#ffb900"],
+        "company": "CodeArch",
+        "description": "Praktis untuk mengatasi kelaparan dengan perpaduan rasa Pedas dan Manis",
+        "category": "Makanan",
+        "shipping": false
     }
-  ]
+]
