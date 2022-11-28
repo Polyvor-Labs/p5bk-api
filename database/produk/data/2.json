@@ -1,147 +1,93 @@
 {
-  "id": "2",
-  "stock": 0,
-  "price": 109999,
-  "colors": [
-    "#000",
-    "#ffb900"
-  ],
-  "category": "living room",
-  "images": [
-    {
-      "id": "2_pic_1",
-      "width": 1000,
-      "height": 652,
-      "url": "https://i.ibb.co/85GdS0m/alulkecap.jpg",
-      "filename": "product-1.jpeg",
-      "size": 61946,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://i.ibb.co/85GdS0m/alulkecap.jpg",
-          "width": 55,
-          "height": 36
+    "id": "2",
+    "stock": 2394,
+    "price": 5000,
+    "colors": ["#000", "#ffb900"],
+    "category": "Minuman",
+    "images": [
+        {
+            "id": "2_pic_1",
+            "width": 1000,
+            "height": 652,
+            "url": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+            "filename": "product-1.jpeg",
+            "size": 61946,
+            "type": "image/jpeg",
+            "thumbnails": {
+                "small": {
+                    "url": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+                    "width": 55,
+                    "height": 36
+                },
+                "large": {
+                    "url": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+                    "width": 785,
+                    "height": 512
+                },
+                "full": {
+                    "url": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+                    "width": 3000,
+                    "height": 3000
+                }
+            }
         },
-        "large": {
-          "url": "https://i.ibb.co/85GdS0m/alulkecap.jpg",
-          "width": 785,
-          "height": 512
+        {
+            "id": "2_pic_2",
+            "width": 1000,
+            "height": 667,
+            "url": "https://i.ibb.co/BtzBT53/IMG-20221126-WA0057.jpg",
+            "filename": "extra-1.jpeg",
+            "size": 102108,
+            "type": "image/jpeg",
+            "thumbnails": {
+                "small": {
+                    "url": "https://i.ibb.co/BtzBT53/IMG-20221126-WA0057.jpg",
+                    "width": 54,
+                    "height": 36
+                },
+                "large": {
+                    "url": "https://i.ibb.co/BtzBT53/IMG-20221126-WA0057.jpg",
+                    "width": 768,
+                    "height": 512
+                },
+                "full": {
+                    "url": "https://i.ibb.co/BtzBT53/IMG-20221126-WA0057.jpg",
+                    "width": 3000,
+                    "height": 3000
+                }
+            }
         },
-        "full": {
-          "url": "https://i.ibb.co/85GdS0m/alulkecap.jpg",
-          "width": 3000,
-          "height": 3000
+        {
+            "id": "2_pic_3",
+            "width": 1000,
+            "height": 714,
+            "url": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+            "filename": "extra-2.jpeg",
+            "size": 84418,
+            "type": "image/jpeg",
+            "thumbnails": {
+                "small": {
+                    "url": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+                    "width": 50,
+                    "height": 36
+                },
+                "large": {
+                    "url": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+                    "width": 717,
+                    "height": 512
+                },
+                "full": {
+                    "url": "https://i.ibb.co/dMG7LNY/IMG-20221126-WA0056.jpg",
+                    "width": 3000,
+                    "height": 3000
+                }
+            }
         }
-      }
-    },
-    {
-      "id": "2_pic_2",
-      "width": 1000,
-      "height": 667,
-      "url": "https://i.ibb.co/85GdS0m/alulkecap.jpg",
-      "filename": "extra-1.jpeg",
-      "size": 102108,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://i.ibb.co/85GdS0m/alulkecap.jpg",
-          "width": 54,
-          "height": 36
-        },
-        "large": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/7-41Pe-tEvpw-0kKKQBNEw/r2g99Bu3hTyqjLgrRZN1qpRaX_Ag_FJriY_2p6ShI3Pohpy2ZHifMbDoeQOKdDazlPXhzjDnFJAuTUDQseKd2A/Hgx2EAhLvbO5RdRyNomAVZDlGFHnq44KlX5gvTszCOo",
-          "width": 768,
-          "height": 512
-        },
-        "full": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/zvfeVoDtm8lyQ5Z8SqFyCg/HXvdQD4PybO22W9iSJTdeL1JjRH3qa3QSyLApiguUtg3j12ADR9sayBbhzdQ6QPdRO-QFEgug_1W3oncRomGlQ/M4G894vxXTblIIA7X_oJ-8tto8qhSDnEijo8tM2MvH8",
-          "width": 3000,
-          "height": 3000
-        }
-      }
-    },
-    {
-      "id": "2_pic_3",
-      "width": 1000,
-      "height": 714,
-      "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/7j-MQPWqsjScsbbojeiMSA/N-lQk3vogD76-WuFpyQRvvY9PiOA5BhuYzZL8Oywl5qFqUwiaRXUl8s1_zBeKUwI7RjoaP-LjAwOucLpoHdO6I3M-3o-HTi0o3aMCAoXblc/cq-PVxoVqgc0hGTiC5I15d-KIDMtEygL1AXeh_dsTaM",
-      "filename": "extra-2.jpeg",
-      "size": 84418,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/U9JGalfiwcmbmgTUDM_Bhg/LNkjA8VfAnRBAgCnGTDn9uIBO0TxLHWBW5sCInZ7XsJRyIN7EgBlau55LTHicVa8aVIthxsyIFyoOyRjlJxbZQ/8rcPsdG6FSe24VubZgShaJoJAKZnm6E7soqHe3lSRFc",
-          "width": 50,
-          "height": 36
-        },
-        "large": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/A8Z7-V6OyMP7X9g98BBq7g/4JCU9fj8YvFl6Rbxk9V8abJQ0RGCsTBSnqQojWpPJvehf3lGwSg1nwh3w-9LKK2rUg_2s9P0ec4Icmeqt0S04Q/hSbU2tx_tlnkS3LgNXftiR839o2NxuFaIHExyKGNGeI",
-          "width": 717,
-          "height": 512
-        },
-        "full": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/2geqoNS3hA1R3aTWlPo0Mg/h8J3QhrdNj8Hm8QS-BdAon2o0gylYmijJhncu1mcrtgL6uut82WlHjkeWx-vxcX2z67xgNm7-J5duOGF8XCrIQ/cgEPqcZm9eh-RnHJvdvUQNVcJQsjc7Sl35koehbexRA",
-          "width": 3000,
-          "height": 3000
-        }
-      }
-    },
-    {
-      "id": "2_pic_4",
-      "width": 1000,
-      "height": 650,
-      "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/v0BZWfGhrctPg1d4ayQs5w/3IEKVd-42hGA7TctN3YrV_sFjyDeFSo4gZOWWxXaNmWDZxKupHPp2sOffauRbGb32QSVdyzhewnXteZJ1aFyXLs0XuS-Eh4DtPc8OAMD-Vo/PRMp4dDKL91ShqwGnpePKRQ9thbDEYFW3k4x0nmzTAE",
-      "filename": "extra-3.jpeg",
-      "size": 107838,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/AH2A8A3NIyCHjt81_fychw/dLToIysKvbbOFKlRUnln11CtIaKK5SzbagfsjlDNbwfX-tmFdMNT_QBHjJhl8GwBFQUw5J_O9jl-wzHIlzRKIw/4gO5JkSIQvwFJONU4GwrsiuDvWyIs1PsxFL-9r0xO2U",
-          "width": 55,
-          "height": 36
-        },
-        "large": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/QUAEFIY3tF0NqhIl-BRhow/rL_ujEPnokoBtC8-gyk5dXjnKE0cdw1D34J-J_GbUvM1MQlr-0oO8Z9yjSS1yEBt-FxYywswlQOf5tkOdCJuXA/lwjoc6s1fketi9YaF8NlY_S6VcyO21EGrSy_t3jxAxk",
-          "width": 788,
-          "height": 512
-        },
-        "full": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/s_o0Ycp3fY0O7VKZ6_QCxg/aNDetpsUUGy7ETTBJch2l8Ht6I3J9SUQlCCN4Gfa3GRlNCQLW-eYELSUC6aJ85JQuj_LIu9E2Lg0cWkXhO1ONQ/tvM2pHEeDmNTuhZDI1pCu0_r5HjfTWuVN5xVRpbio0g",
-          "width": 3000,
-          "height": 3000
-        }
-      }
-    },
-    {
-      "id": "2_pic_5",
-      "width": 1000,
-      "height": 667,
-      "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/POD4CCcQxuUoyUNZd0GCng/tFGR1F9dODeJB-7wgl8v5rjpZwMbyqxMQxe5HF32-dT4Npu55hhz9toaAZdNHApw6EhLalUFbm-maVS1ay6nUjV1KPg5tzep_eyIOXPkCPs/tr_qatIOvB4n62CxKhwHiSDEyCNGfunuflwunkiEWVg",
-      "filename": "extra-4.jpeg",
-      "size": 99481,
-      "type": "image/jpeg",
-      "thumbnails": {
-        "small": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/07tXiAEX46awwXN9HbcdDA/X60ke9eMvmWPU_s1885grbmXQHQREWbqjN8MvkUHlgrUsGI-W46Rl-s6RoHDFkZtsfe1XH2-PBkcrIY1p2-WCw/sQ1uDZX8efct3-hbPzFOSnLt1_d5zQGz2LlyPE9IvZ0",
-          "width": 54,
-          "height": 36
-        },
-        "large": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/orWv0qXzftOnhujlCjo82Q/x-kl2H3RZvaUvNQCGIYkdWeTeVBuElP17kUJElvkjXADVPOj2Ehkms7a2Fm6FNWa0WG6pz_IR5gbrmP3FGqc3w/latyYWz-15ai27Kpiy3TfEn601C4RhslcytQ6G6lhUA",
-          "width": 768,
-          "height": 512
-        },
-        "full": {
-          "url": "https://v5.airtableusercontent.com/v1/11/11/1668700800000/3KEWQn43WVeeSSFFJy1YrQ/TyJAui7Pw_VkGo7ryIi1Pn_pXbBJjw-hdGSfm1HLEylnMh5AswAgGnygmNah-7M7lBWtw7kv3UCbZUXX2PSUBw/UlF4l8m0Xt-r0CKhlYWNz3oDCuwXMuMaK9tf8vY_tsg",
-          "width": 3000,
-          "height": 3000
-        }
-      }
-    }
-  ],
-  "reviews": 123,
-  "stars": 3.3,
-  "name": "Rubi Lagi Nganu",
-  "description": "dis is twenty wan",
-  "company": "rubi"
+    ],
+    "reviews": 123,
+    "stars": 4.5,
+    "name": "Es Manohara",
+    "description": "Menyegarkan dahaga, manis, dan murah!!!",
+    "company": "CodeArch",
+    "no_WA": "+620000000000"
 }
